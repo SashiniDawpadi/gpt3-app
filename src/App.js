@@ -1,4 +1,3 @@
-import React from 'react'
 
 import {
   Footer,
@@ -8,7 +7,7 @@ import {
   Possibility,
   Blog,
 } from "./containers";
-import { Article,Brand,CTA, Feature,Navbar } from './components'
+import { Brand,CTA, Navbar } from './components'
 import './App.css'
 
 const App = () => {
